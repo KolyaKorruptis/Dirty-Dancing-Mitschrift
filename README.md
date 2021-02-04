@@ -111,41 +111,31 @@ Drei Wochen hier werden euch wie ein Jahr vorkommen.
 
 ## Merengue Kurs
 
+MUSIK EINSATZ: "Merengue" von Michael Lloyd & Le Disc
+
+	PENNY JOHNSON
 1, 2, 3, 4!
-
 Und 1, 2, 3, 4!
+Und achten Sie auf die Musik, Ladys!
 
-Achten Sie auf die Musik, Ladys!
-
+	BABY
 Oh, Verzeihung!
 
-Schön im Takt bleiben!
+	PENNY JOHNSON
+1, 2, 3, 4!
+Und schön im Takt bleiben!
 1, 2, 3, 4! Und 1, 2, 3, 4!
-
 Ja, so ist es gut.
-Ihr könnt etwas auseinanderrücken.
-
-Und nun bilden die Herren
-einen äußeren Kreis.
-
-Und die Damen gehen nach innen.
-
-* Merengue-Musik *
-
-Na los, Ladys! Jetzt zeigen wir
-den Herren mal, wie man Wellen macht.
-
-Die macht man so.
-
-Wow! Ja!
-
-Ladys, wenn ich "halt" sage, muss
-jede zum Mann ihrer Träume rennen.
-
+Ihr könnt ruhig ein bisschen auseinanderrücken.
+Und jetzt bilden die Herren einen äußeren Kreis. Ja!
+Und die Damen gehen nach innen!
+Ah! Na los, Ladys! Jetzt wir den Herren mal zeigen, wie man Wellen macht.
+Die macht man so! Ha!
+Ja! Wow! Ja!
+So Ladys, und wenn ich jetzt "Halt" sage, muss jede zu dem Mann ihrer Träume rennen.
 Und halt!
-
-Denkt daran: Nur auf der Tanzfläche
-ist er der Boss, sonst hat er nichts zu melden.
+Oh!
+Und denkt daran: Nur auf der Tanzfläche ist er der Boss, sonst hat er nichts zu melden. Hahaha!
 
 ## Baby erforscht die Anlage
 
