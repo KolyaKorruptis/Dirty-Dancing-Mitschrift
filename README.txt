@@ -1,4 +1,5 @@
 # Dirty Dancing Mitschrift
+
 Kein Drehbuch, Script oder Untertitel.
 Pull Requests willkommen.
 
@@ -165,68 +166,57 @@ sonst hat er nichts zu melden. Hahaha!
 
 ## Baby erforscht die Anlage
 
-Mom, Dad? Ich sehe
-mich mal noch ein wenig um.
+	BABY
+Mom, Dad? Ich seh mich mal noch ein bisschen um.
 
-(Mann:)
+MUSIK EINSATZ: "(I've Had) The Time Of My Life" von The John Morris Orchestra
+
+	MAX KELLERMAN (OFFSCREEN)
 Wir haben das beste Personal.
+Unsere Kellner kommen alle vom College.
+Ich war in Harvard und Yale und hab sie persönlich ausgesucht.
+Warum wohl habe ich das gemacht? Warum?
+Doch nur aus einem Grund:
+	
+	MAX KELLERMAN
+Unsere Gäste sollen sich hier wohl fühlen.
+Also fasst nicht mit dem Daumen ins Glas, lasst kein Haar in die Suppe fallen
+und kümmert euch vor allen Dingen um die Töchter.
+Um alle Töchter. 
+Auch um die hässlichen.
+Schleppt sie auf die Terrasse, zeigt ihnen die Sterne, seid romantisch!
 
-Unsere Kellner
-kommen alle vom College.
-
-Ich war in Harvard und Yale
-und suchte sie persönlich aus.
-
-Warum habe ich das gemacht?
-Nur aus einem Grund:
-
-Unsere Gäste
-sollen sich wohl fühlen.
-
-Fasst nicht mit dem Daumen ins Glas,
-lasst kein Haar in die Suppe fallen
-
-und kümmert euch um die Töchter,
-auch um die hässlichen.
-
-Zeigt ihnen auf der Terrasse
-die Sterne, seid romantisch!
-
+	JOHNNY CASTLE
 Alles klar, Jungs?
 
-Und das Wichtigste ...
-Augenblick mal!
-
-Da sind ja die Herren
-von der flotten Sohle.
-
-Ihr habt eure eigenen Regeln,
+	MAX KELLERMAN
+Und das Wichtigste...
+Augenblick mal! Augenblick mal!
+Ah, da sind ja die Herren von der flotten Sohle.
+Du Neunmalkluger, Ihr habt eure eigenen Regeln,
 aber die gelten hier nicht.
+Ihr bringt den Töchtern nur Mambo und Cha-Cha-Cha bei,
+und sonst gar nichts.
+Weitere Nachhilfe verboten.
+Keine Verabredungen, keine krummen Touren und
+wer die Finger nicht stillhält, fliegt im hohen Bogen.
 
-Ihr bringt den Töchtern
-nur Mambo und Cha-Cha-Cha bei,
-
-weitere Nachhilfe verboten.
-
-Wer die Finger nicht stillhält,
-fliegt in hohem Bogen.
-
-Bring ihr den Mambo bei,
-aber rück ihr nicht auf die Pelle!
+	TÄNZER
+Hah! Es ist doch überall das Gleiche:
+Bring ihr den Mambo bei, aber rück ihr nicht auf die Pelle!
 
 * Alle kichern. *
+
+	MAX KELLERMAN
 Riskier hier keine kesse Lippe!
 
-Johnny, kannst du das?
+	ROBBIE GOULD
+Na Johnny, glaubst du dass du das kannst?
+Du bist doch wie'n Tintenfisch, hast deine Finger überall.
 
-Du bist doch wie ein Tintenfisch,
-hast deine Finger überall.
-
-Hör mal, du Vogel, kümmere dich
-um deine sauren Gurken
-
-und überlass
-die richtigen Fälle mir!
+	JOHNNY CASTLE
+Hah. Hör mal du Vogel, kümmer dich um deine sauren Gurken
+und überlass die richtigen Fälle mir, klar?
 
 ## Abendessen im Restaurant
 
