@@ -3,6 +3,57 @@
 Kein Drehbuch, Script oder Untertitel.
 Pull Requests willkommen.
 
+INHALT
+- [Prolog](#prolog)
+- [Autofahrt](#autofahrt)
+- [Ankunft bei Kellerman’s](#ankunft-bei-kellermans)
+- [Merengue Kurs](#merengue-kurs)
+- [Baby erforscht die Anlage](#baby-erforscht-die-anlage)
+- [Abendessen im Restaurant](#abendessen-im-restaurant)
+- [Baby und Neil tanzen](#baby-und-neil-tanzen)
+- [Abend Show mit Zauberer](#abend-show-mit-zauberer)
+- [Baby trifft Billy mit Melonen](#baby-trifft-billy-mit-melonen)
+- [Die Party der Tänzer](#die-party-der-tänzer)
+- [Amüsement am Seestrand](#amüsement-am-seestrand)
+- [Abendtanz (Bungalow-Prinzessinnen)](#abendtanz-bungalow-prinzessinnen)
+- [Baby holt Hilfe für Penny](#baby-holt-hilfe-für-penny)
+- [Baby spricht mit Robbie](#baby-spricht-mit-robbie)
+- [Auf dem Golfplatz](#auf-dem-golfplatz)
+- [Baby soll einspringen](#baby-soll-einspringen)
+- [Baby lernt tanzen](#baby-lernt-tanzen)
+- [Hungry Eyes](#hungry-eyes)
+- [Baby und Johnny hauen ab](#baby-und-johnny-hauen-ab)
+- [Tanzübungen im Wald](#tanzübungen-im-wald)
+- [Im See](#im-see)
+- [Die Schumachers](#die-schumachers)
+- [In der Umkleide](#in-der-umkleide)
+- [Baby bittet Lisa für sie zu lügen](#baby-bittet-lisa-für-sie-zu-lügen)
+- [Auftritt im Sheldrake Hotel](#auftritt-im-sheldrake-hotel)
+- [Im Wagen zurück zu Kellerman’s](#im-wagen-zurück-zu-kellermans)
+- [Penny’s verpfuschte Abtreibung](#pennys-verpfuschte-abtreibung)
+- [Baby holt ihren Daddy zuhilfe](#baby-holt-ihren-daddy-zuhilfe)
+- [Baby besucht Johnny in seinem Bungalow](#baby-besucht-johnny-in-seinem-bungalow)
+- [Baby und Johnny tanzen](#baby-und-johnny-tanzen)
+- [Wir reisen heute ab!](#wir-reisen-heute-ab)
+- [Krankenbesuche bei Penny](#krankenbesuche-bei-penny)
+- [Regentag](#regentag)
+- [Baby und Johnny im Bett](#baby-und-johnny-im-bett)
+- [Nächtliche Unterhaltung zwischen Schwestern](#nächtliche-unterhaltung-zwischen-schwestern)
+- [Baby und Johnny im Tanzstudio, später Neil](#baby-und-johnny-im-tanzstudio-später-neil)
+- [Johnny’s und Baby’s Zukunft](#johnnys-und-babys-zukunft)
+- [Prügelei zwischen Johnny und Robbie](#prügelei-zwischen-johnny-und-robbie)
+- [Proben für den Abschlussabend](#proben-für-den-abschlussabend)
+- [Lisa geht zu Robbie’s Kabine](#lisa-geht-zu-robbies-kabine)
+- [Johnny’s Traum](#johnnys-traum)
+- [Max Kellerman verdächtigt Johnny gestohlen zu haben](#max-kellerman-verdächtigt-johnny-gestohlen-zu-haben)
+- [Aussprache zwischen Vater und Tochter im Gazebo](#aussprache-zwischen-vater-und-tochter-im-gazebo)
+- [Die Schumachers sind gefasst aber Johnny wird trotzdem entlassen](#die-schumachers-sind-gefasst-aber-johnny-wird-trotzdem-entlassen)
+- [Johnny spricht mit Jake Houseman](#johnny-spricht-mit-jake-houseman)
+- [Johnny verabschiedet sich von Baby](#johnny-verabschiedet-sich-von-baby)
+- [Baby bleibt allein](#baby-bleibt-allein)
+- [Kellerman’s Abschluss Show](#kellermans-abschluss-show)
+- [Johnny kommt zurück](#johnny-kommt-zurück)
+---
 
 ## Prolog
 
@@ -31,9 +82,9 @@ MUSIK EINSATZ: "Be My Baby" von The Ronettes
 ♫ Be my, be my baby, oh
 ♫ My one and only baby, wha oh oh oh oh
 
-	MANN IN VOICE OVER
-Halt Leute, wer sich bei dieser Musik nicht verliebt, 
-der hat kein Herz, der hat kein kein Blut, 
+	MANN IN VOICE OVER (STAN?)
+Halt Leute, wer sich bei dieser Musik nicht verliebt,
+der hat kein Herz, der hat kein kein Blut,
 der hat nur schlichtes Wasser in den  Adern!
 
 ## Autofahrt
@@ -41,22 +92,23 @@ der hat nur schlichtes Wasser in den  Adern!
 MUSIK EINSATZ: "Big Girls Don't Cry" von The Four Seasons
 
 	BABY
-Es war im Sommer '63. Alle nannten mich Baby. 
+Es war im Sommer '63. Alle nannten mich Baby.
 Irgendwie hat mir das gefallen.
-Es war bevor Präsident Kennedy ermordet wurde, 
-bevor es die Beatles gab 
-und als ich nicht abwarten konnte, 
+Es war bevor Präsident Kennedy ermordet wurde,
+bevor es die Beatles gab
+und als ich nicht abwarten konnte,
 der Friedensbewegung anzugehören.
-Das war der Sommer, in dem ich dachte, 
-dass ich nie einen Jungen finden würde, 
+Das war der Sommer, in dem ich dachte,
+dass ich nie einen Jungen finden würde,
 der so toll ist wie mein Dad.
 Es war der Sommer, den wir bei Kellerman's verbrachten.
 
 ## Ankunft bei Kellerman's
 
-	LAUTSPRECHER
-Flippern in der Westpassage, Softball im östlichen Spielfeld, 
-Gratis-Tanzstunden im Gebäude mit dem schönen Ausblick. 
+	STAN
+(am Megafon)
+Flippern in der Westpassage, Softball im östlichen Spielfeld,
+Gratis-Tanzstunden im Gebäude mit dem schönen Ausblick.
 Im Ballsaal fängt in 10 Minuten der [unverständlich] Rumba-Kurs an.
 
 	LISA HOUSEMAN
@@ -72,8 +124,8 @@ Aber die korallfarbenen passen zum Kleid.
 
 	JAKE HOUSEMAN
 Das ist doch keine Tragödie.
-Wenn Menschen verschüttet werden, 
-oder die Polizei in Alabama Hunde einsetzt - 
+Wenn Menschen verschüttet werden,
+oder die Polizei in Alabama Hunde einsetzt -
 das ist eine Tragödie.
 
 	BABY
@@ -82,12 +134,13 @@ Oder Mönche, die sich aus Protest in Vietnam verbrennen.
 	LISA
 Musst du immer mitquatschen?
 
-	LAUTSPRECHER
-Achtung, Achtung, Achtung! 
+	STAN
+(Megafon)
+Achtung, Achtung, Achtung!
 Das Hufeisenwerfen findet in 15 Minuten auf dem Südrasen statt.
-Außerdem haben wir eine Schwimmklasse, 
+Außerdem haben wir eine Schwimmklasse,
 und es gibt Volleyball und Krocket.
-Für euch Ältere haben wir andere Spiele. 
+Für euch Ältere haben wir andere Spiele.
 Haha, ihr wisst schon was ich meine!
 
 	MAX KELLERMAN
@@ -97,16 +150,16 @@ Das ist ja Doc.
 Max!
 
 	MAX KELLERMAN
-Fantastisch, Doktor. 
-Nach so vielen Jahren kommen Sie endlich 
+Fantastisch, Doktor.
+Nach so vielen Jahren kommen Sie endlich
 in meine bescheidene Hütte.
 
 	JAKE HOUSEMAN
 Was ist mit Ihrem Blutdruck, Max?
 
 	MAX KELLERMAN
-Eins möcht ich euch sagen: 
-Wenn es diesen Mann nicht gegeben hätte, 
+Eins möcht ich euch sagen:
+Wenn es diesen Mann nicht gegeben hätte,
 dann wäre ich schon längst tot.
 Billy, hol das Gepäck!
 
@@ -121,8 +174,8 @@ Hallo! Vielen Dank.
 Suchst du hier'n Job?
 
 	MAX KELLERMAN
-In wenigen Minuten findet im Haus mit dem schönen Ausblick ein 
-Merengue-Kurs statt. 
+In wenigen Minuten findet im Haus mit dem schönen Ausblick ein
+Merengue-Kurs statt.
 Mit einer Super-Lehrerin.
 
 	MARJORIE HOUSEMAN
@@ -152,16 +205,16 @@ Ja, so ist es gut.
 Ihr könnt ruhig ein bisschen auseinanderrücken.
 Und jetzt bilden die Herren einen äußeren Kreis. Ja!
 Und die Damen gehen nach innen!
-Ah! Na los, Ladys! Jetzt wir den Herren mal zeigen, 
+Ah! Na los, Ladys! Jetzt wir den Herren mal zeigen,
 wie man Wellen macht.
 Die macht man so! Ha!
 Ja! Wow! Ja!
-So Ladys, und wenn ich jetzt "Halt" sage, 
+So Ladys, und wenn ich jetzt "Halt" sage,
 muss jede zu dem Mann ihrer Träume rennen.
 Und halt!
 Oh!
-Und denkt daran: 
-Nur auf der Tanzfläche ist er der Boss, 
+Und denkt daran:
+Nur auf der Tanzfläche ist er der Boss,
 sonst hat er nichts zu melden. Hahaha!
 
 ## Baby erforscht die Anlage
@@ -177,12 +230,12 @@ Unsere Kellner kommen alle vom College.
 Ich war in Harvard und Yale und hab sie persönlich ausgesucht.
 Warum wohl habe ich das gemacht? Warum?
 Doch nur aus einem Grund:
-	
+
 	MAX KELLERMAN
 Unsere Gäste sollen sich hier wohl fühlen.
 Also fasst nicht mit dem Daumen ins Glas, lasst kein Haar in die Suppe fallen
 und kümmert euch vor allen Dingen um die Töchter.
-Um alle Töchter. 
+Um alle Töchter.
 Auch um die hässlichen.
 Schleppt sie auf die Terrasse, zeigt ihnen die Sterne, seid romantisch!
 
