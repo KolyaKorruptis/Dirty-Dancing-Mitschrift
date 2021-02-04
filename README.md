@@ -82,7 +82,7 @@ MUSIK EINSATZ: "Be My Baby" von The Ronettes
 ♫ Be my, be my baby, oh
 ♫ My one and only baby, wha oh oh oh oh
 
-	MANN IN VOICE OVER (STAN?)
+MANN IN VOICE OVER (STAN?)
 Halt Leute, wer sich bei dieser Musik nicht verliebt,
 der hat kein Herz, der hat kein kein Blut,
 der hat nur schlichtes Wasser in den  Adern!
@@ -91,7 +91,7 @@ der hat nur schlichtes Wasser in den  Adern!
 
 MUSIK EINSATZ: "Big Girls Don't Cry" von The Four Seasons
 
-	BABY
+BABY
 Es war im Sommer '63. Alle nannten mich Baby.
 Irgendwie hat mir das gefallen.
 Es war bevor Präsident Kennedy ermordet wurde,
@@ -105,36 +105,36 @@ Es war der Sommer, den wir bei Kellerman's verbrachten.
 
 ## Ankunft bei Kellerman's
 
-	STAN
+STAN
 (am Megafon)
 Flippern in der Westpassage, Softball im östlichen Spielfeld,
 Gratis-Tanzstunden im Gebäude mit dem schönen Ausblick.
 Im Ballsaal fängt in 10 Minuten der [unverständlich] Rumba-Kurs an.
 
-	LISA HOUSEMAN
+LISA HOUSEMAN
 Oh mein Gott! Sieh mal da!
 Ma, ich hätte doch die korallfarbenen Schuhe mitbringen können.
 Du hast gesagt, ich würde zuviel mitnehmen.
 
-	MARJORIE HOUSEMAN
+MARJORIE HOUSEMAN
 Hör mal, reichen denn nicht die 10 Paar, die du mithast?
 
-	LISA
+LISA
 Aber die korallfarbenen passen zum Kleid.
 
-	JAKE HOUSEMAN
+JAKE HOUSEMAN
 Das ist doch keine Tragödie.
 Wenn Menschen verschüttet werden,
 oder die Polizei in Alabama Hunde einsetzt -
 das ist eine Tragödie.
 
-	BABY
+BABY
 Oder Mönche, die sich aus Protest in Vietnam verbrennen.
 
-	LISA
+LISA
 Musst du immer mitquatschen?
 
-	STAN
+STAN
 (Megafon)
 Achtung, Achtung, Achtung!
 Das Hufeisenwerfen findet in 15 Minuten auf dem Südrasen statt.
@@ -143,61 +143,61 @@ und es gibt Volleyball und Krocket.
 Für euch Ältere haben wir andere Spiele.
 Haha, ihr wisst schon was ich meine!
 
-	MAX KELLERMAN
+MAX KELLERMAN
 Das ist ja Doc.
 
-	JAKE HOUSEMAN
+JAKE HOUSEMAN
 Max!
 
-	MAX KELLERMAN
+MAX KELLERMAN
 Fantastisch, Doktor.
 Nach so vielen Jahren kommen Sie endlich
 in meine bescheidene Hütte.
 
-	JAKE HOUSEMAN
+JAKE HOUSEMAN
 Was ist mit Ihrem Blutdruck, Max?
 
-	MAX KELLERMAN
+MAX KELLERMAN
 Eins möcht ich euch sagen:
 Wenn es diesen Mann nicht gegeben hätte,
 dann wäre ich schon längst tot.
 Billy, hol das Gepäck!
 
-	BILLY KOSTECKI
+BILLY KOSTECKI
 Sofort, Doc!
 
-	MAX KELLERMAN
+MAX KELLERMAN
 Ich habe für Sie und Ihre Kinder das beste Häuschen reserviert
 
-	BILLY KOSTECKI
+BILLY KOSTECKI
 Hallo! Vielen Dank.
 Suchst du hier'n Job?
 
-	MAX KELLERMAN
+MAX KELLERMAN
 In wenigen Minuten findet im Haus mit dem schönen Ausblick ein
 Merengue-Kurs statt.
 Mit einer Super-Lehrerin.
 
-	MARJORIE HOUSEMAN
+MARJORIE HOUSEMAN
 Es ist sein erster richtiger Urlaub seit vielen Jahren.
 Nicht so hastig!
 
-	MAX KELLERMAN
+MAX KELLERMAN
 Drei Wochen hier werden euch wie ein Jahr vorkommen.
 
 ## Merengue Kurs
 
 MUSIK EINSATZ: "Merengue" von Michael Lloyd & Le Disc
 
-	PENNY JOHNSON
+PENNY JOHNSON
 1, 2, 3, 4!
 Und 1, 2, 3, 4!
 Und achten Sie auf die Musik, Ladys!
 
-	BABY
+BABY
 Oh, Verzeihung!
 
-	PENNY JOHNSON
+PENNY JOHNSON
 1, 2, 3, 4!
 Und schön im Takt bleiben!
 1, 2, 3, 4! Und 1, 2, 3, 4!
@@ -219,19 +219,19 @@ sonst hat er nichts zu melden. Hahaha!
 
 ## Baby erforscht die Anlage
 
-	BABY
+BABY
 Mom, Dad? Ich seh mich mal noch ein bisschen um.
 
 MUSIK EINSATZ: "(I've Had) The Time Of My Life" von The John Morris Orchestra
 
-	MAX KELLERMAN (OFFSCREEN)
+MAX KELLERMAN (OFFSCREEN)
 Wir haben das beste Personal.
 Unsere Kellner kommen alle vom College.
 Ich war in Harvard und Yale und hab sie persönlich ausgesucht.
 Warum wohl habe ich das gemacht? Warum?
 Doch nur aus einem Grund:
 
-	MAX KELLERMAN
+MAX KELLERMAN
 Unsere Gäste sollen sich hier wohl fühlen.
 Also fasst nicht mit dem Daumen ins Glas, lasst kein Haar in die Suppe fallen
 und kümmert euch vor allen Dingen um die Töchter.
@@ -239,10 +239,10 @@ Um alle Töchter.
 Auch um die hässlichen.
 Schleppt sie auf die Terrasse, zeigt ihnen die Sterne, seid romantisch!
 
-	JOHNNY CASTLE
+JOHNNY CASTLE
 Alles klar, Jungs?
 
-	MAX KELLERMAN
+MAX KELLERMAN
 Und das Wichtigste...
 Augenblick mal! Augenblick mal!
 Ah, da sind ja die Herren von der flotten Sohle.
@@ -254,20 +254,20 @@ Weitere Nachhilfe verboten.
 Keine Verabredungen, keine krummen Touren und
 wer die Finger nicht stillhält, fliegt im hohen Bogen.
 
-	TÄNZER
+TÄNZER
 Hah! Es ist doch überall das Gleiche:
 Bring ihr den Mambo bei, aber rück ihr nicht auf die Pelle!
 
 *Alle kichern.*
 
-	MAX KELLERMAN
+MAX KELLERMAN
 Riskier hier keine kesse Lippe!
 
-	ROBBIE GOULD
+ROBBIE GOULD
 Na Johnny, glaubst du dass du das kannst?
 Du bist doch wie'n Tintenfisch, hast deine Finger überall.
 
-	JOHNNY CASTLE
+JOHNNY CASTLE
 Hah. Hör mal du Vogel, kümmer dich um deine sauren Gurken
 und überlass die richtigen Fälle mir, klar?
 
