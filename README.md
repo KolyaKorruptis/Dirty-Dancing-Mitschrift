@@ -1,7 +1,8 @@
 # Dirty-Dancing-Mitschrift
 Kein Dirty Dancing Drehbuch, Script oder Untertitel.  
-Im [Raw Modus](https://raw.githubusercontent.com/KolyaKorruptis/Dirty-Dancing-Mitschrift/main/README.md) zu lesen. Oder mit einem Markdown Renderer der Fountain-Syntax unterstützt.  
+Im [Raw Modus](https://raw.githubusercontent.com/KolyaKorruptis/Dirty-Dancing-Mitschrift/main/README.md) zu lesen. Oder in [Joplin](https://joplinapp.org/).    
 Pull Requests willkommen.  
+
 
 
 ## Prolog
