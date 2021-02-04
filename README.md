@@ -1,7 +1,5 @@
 Dirty-Dancing-Mitschrift  
 
-m# Dirty Dancing Mitschrift  
-
 Kein Drehbuch, Script oder Untertitel.  
 Pull Requests willkommen.  
 
