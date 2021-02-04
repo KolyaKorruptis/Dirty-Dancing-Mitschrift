@@ -1,7 +1,6 @@
-# Dirty-Dancing-Mitschrift
-Kein Dirty Dancing Drehbuch, Script oder Untertitel.      
-Pull Requests willkommen.  
-
+# Dirty Dancing Mitschrift
+Kein Drehbuch, Script oder Untertitel.
+Pull Requests willkommen.
 
 
 ## Prolog
@@ -32,22 +31,32 @@ MUSIK EINSATZ: "Be My Baby" von The Ronettes
 ♫ My one and only baby, wha oh oh oh oh
 
 	MANN IN VOICE OVER
-Halt Leute, wer sich bei dieser Musik nicht verliebt, der hat kein Herz, der hat kein kein Blut, der hat nur schlichtes Wasser in den  Adern!
+Halt Leute, wer sich bei dieser Musik nicht verliebt, 
+der hat kein Herz, der hat kein kein Blut, 
+der hat nur schlichtes Wasser in den  Adern!
 
 ## Autofahrt
 
 MUSIK EINSATZ: "Big Girls Don't Cry" von The Four Seasons
 
 	BABY
-Es war im Sommer '63. Alle nannten mich Baby. Irgendwie hat mir das gefallen.
-Es war bevor Präsident Kennedy ermordet wurde, bevor es die Beatles gab und als ich nicht abwarten konnte, der Friedensbewegung anzugehören.
-Das war der Sommer, in dem ich dachte, dass ich nie einen Jungen finden würde, der so toll ist wie mein Dad.
+Es war im Sommer '63. Alle nannten mich Baby. 
+Irgendwie hat mir das gefallen.
+Es war bevor Präsident Kennedy ermordet wurde, 
+bevor es die Beatles gab 
+und als ich nicht abwarten konnte, 
+der Friedensbewegung anzugehören.
+Das war der Sommer, in dem ich dachte, 
+dass ich nie einen Jungen finden würde, 
+der so toll ist wie mein Dad.
 Es war der Sommer, den wir bei Kellerman's verbrachten.
 
 ## Ankunft bei Kellerman's
 
 	LAUTSPRECHER
-Flippern in der Westpassage, Softball im östlichen Spielfeld, Gratis-Tanzstunden im Gebäude mit dem schönen Ausblick. Im Ballsaal fängt in 10 Minuten der [unverständlich] Rumba-Kurs an.
+Flippern in der Westpassage, Softball im östlichen Spielfeld, 
+Gratis-Tanzstunden im Gebäude mit dem schönen Ausblick. 
+Im Ballsaal fängt in 10 Minuten der [unverständlich] Rumba-Kurs an.
 
 	LISA HOUSEMAN
 Oh mein Gott! Sieh mal da!
@@ -62,7 +71,9 @@ Aber die korallfarbenen passen zum Kleid.
 
 	JAKE HOUSEMAN
 Das ist doch keine Tragödie.
-Wenn Menschen verschüttet werden, oder die Polizei in Alabama Hunde einsetzt - das ist eine Tragödie.
+Wenn Menschen verschüttet werden, 
+oder die Polizei in Alabama Hunde einsetzt - 
+das ist eine Tragödie.
 
 	BABY
 Oder Mönche, die sich aus Protest in Vietnam verbrennen.
@@ -71,10 +82,12 @@ Oder Mönche, die sich aus Protest in Vietnam verbrennen.
 Musst du immer mitquatschen?
 
 	LAUTSPRECHER
-Achtung, Achtung, Achtung! Das Hufeisenwerfen findet in 15 Minuten auf dem Südrasen statt.
-Außerdem haben wir eine Schwimmklasse, und es gibt Volleyball und Krocket.
-
-Für euch Ältere haben wir andere Spiele. Haha, ihr wisst schon was ich meine!
+Achtung, Achtung, Achtung! 
+Das Hufeisenwerfen findet in 15 Minuten auf dem Südrasen statt.
+Außerdem haben wir eine Schwimmklasse, 
+und es gibt Volleyball und Krocket.
+Für euch Ältere haben wir andere Spiele. 
+Haha, ihr wisst schon was ich meine!
 
 	MAX KELLERMAN
 Das ist ja Doc.
@@ -83,13 +96,17 @@ Das ist ja Doc.
 Max!
 
 	MAX KELLERMAN
-Fantastisch, Doktor. Nach so vielen Jahren kommen Sie endlich in meine bescheidene Hütte.
+Fantastisch, Doktor. 
+Nach so vielen Jahren kommen Sie endlich 
+in meine bescheidene Hütte.
 
 	JAKE HOUSEMAN
 Was ist mit Ihrem Blutdruck, Max?
 
 	MAX KELLERMAN
-Eins möcht ich euch sagen: Wenn es diesen Mann nicht gegeben hätte, dann wäre ich schon längst tot.
+Eins möcht ich euch sagen: 
+Wenn es diesen Mann nicht gegeben hätte, 
+dann wäre ich schon längst tot.
 Billy, hol das Gepäck!
 
 	BILLY KOSTECKI
@@ -103,7 +120,9 @@ Hallo! Vielen Dank.
 Suchst du hier'n Job?
 
 	MAX KELLERMAN
-In wenigen Minuten findet im Haus mit dem schönen Ausblick ein Merengue-Kurs statt. Mit einer Super-Lehrerin.
+In wenigen Minuten findet im Haus mit dem schönen Ausblick ein 
+Merengue-Kurs statt. 
+Mit einer Super-Lehrerin.
 
 	MARJORIE HOUSEMAN
 Es ist sein erster richtiger Urlaub seit vielen Jahren.
@@ -132,13 +151,17 @@ Ja, so ist es gut.
 Ihr könnt ruhig ein bisschen auseinanderrücken.
 Und jetzt bilden die Herren einen äußeren Kreis. Ja!
 Und die Damen gehen nach innen!
-Ah! Na los, Ladys! Jetzt wir den Herren mal zeigen, wie man Wellen macht.
+Ah! Na los, Ladys! Jetzt wir den Herren mal zeigen, 
+wie man Wellen macht.
 Die macht man so! Ha!
 Ja! Wow! Ja!
-So Ladys, und wenn ich jetzt "Halt" sage, muss jede zu dem Mann ihrer Träume rennen.
+So Ladys, und wenn ich jetzt "Halt" sage, 
+muss jede zu dem Mann ihrer Träume rennen.
 Und halt!
 Oh!
-Und denkt daran: Nur auf der Tanzfläche ist er der Boss, sonst hat er nichts zu melden. Hahaha!
+Und denkt daran: 
+Nur auf der Tanzfläche ist er der Boss, 
+sonst hat er nichts zu melden. Hahaha!
 
 ## Baby erforscht die Anlage
 
@@ -611,7 +634,7 @@ Das ist das Einzige, was ich kann.
 
 Ich beneide dich.
 
-## Abendtanz (Bungalow-Prinzessinnen) 
+## Abendtanz (Bungalow-Prinzessinnen)
 
 Tanzen Sie nicht, Doc?
 - Wir warten auf einen Walzer.
@@ -898,7 +921,7 @@ vor dem Abendessen geben.
 
 Habt ihr Geheimnisse?
 
-Ganz im Gegenteil. 
+Ganz im Gegenteil.
 
 Danke.
 
