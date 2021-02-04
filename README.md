@@ -1,6 +1,6 @@
 # Dirty-Dancing-Mitschrift
-Kein Dirty Dancing Drehbuch, Script oder Untertitel. 
-(Im Raw Modus zu lesen. Oder mit einem Markdown Renderer der Fountain-Syntax unterstützt.)
+Kein Dirty Dancing Drehbuch, Script oder Untertitel.  
+(*Im Raw Modus zu lesen. Oder mit einem Markdown Renderer der Fountain-Syntax unterstützt.*)
 
 
 ## Prolog
