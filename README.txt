@@ -30,7 +30,7 @@ INHALT
 - [Baby bittet Lisa für sie zu lügen](#baby-bittet-lisa-für-sie-zu-lügen)
 - [Auftritt im Sheldrake Hotel](#auftritt-im-sheldrake-hotel)
 - [Im Wagen zurück zu Kellerman’s](#im-wagen-zurück-zu-kellermans)
-- [Penny’s verpfuschte Abtreibung](#pennys-verpfuschte-abtreibung)
+- [Pennys verpfuschte Abtreibung](#pennys-verpfuschte-abtreibung)
 - [Baby holt ihren Daddy zuhilfe](#baby-holt-ihren-daddy-zuhilfe)
 - [Baby besucht Johnny in seinem Bungalow](#baby-besucht-johnny-in-seinem-bungalow)
 - [Baby und Johnny tanzen](#baby-und-johnny-tanzen)
@@ -40,11 +40,11 @@ INHALT
 - [Baby und Johnny im Bett](#baby-und-johnny-im-bett)
 - [Nächtliche Unterhaltung zwischen Schwestern](#nächtliche-unterhaltung-zwischen-schwestern)
 - [Baby und Johnny im Tanzstudio, später Neil](#baby-und-johnny-im-tanzstudio-später-neil)
-- [Johnny’s und Baby’s Zukunft](#johnnys-und-babys-zukunft)
+- [Johnnys und Babys Zukunft](#johnnys-und-babys-zukunft)
 - [Prügelei zwischen Johnny und Robbie](#prügelei-zwischen-johnny-und-robbie)
 - [Proben für den Abschlussabend](#proben-für-den-abschlussabend)
-- [Lisa geht zu Robbie’s Kabine](#lisa-geht-zu-robbies-kabine)
-- [Johnny’s Traum](#johnnys-traum)
+- [Lisa geht zu Robbies Kabine](#lisa-geht-zu-robbies-kabine)
+- [Johnnys Traum](#johnnys-traum)
 - [Max Kellerman verdächtigt Johnny gestohlen zu haben](#max-kellerman-verdächtigt-johnny-gestohlen-zu-haben)
 - [Aussprache zwischen Vater und Tochter im Gazebo](#aussprache-zwischen-vater-und-tochter-im-gazebo)
 - [Die Schumachers sind gefasst aber Johnny wird trotzdem entlassen](#die-schumachers-sind-gefasst-aber-johnny-wird-trotzdem-entlassen)
@@ -1523,7 +1523,7 @@ when I'm in your embrace.
 
 * Er schaltet das Radio aus. *
 
-## Penny's verpfuschte Abtreibung
+## Pennys verpfuschte Abtreibung
 
 Johnny, komm mit!
 Es ist etwas mit Penny.
@@ -2021,7 +2021,7 @@ aber die Damen scheinen ihn zu mögen.
 Pass auf, dass er dir die volle halbe
 Stunde gibt, die du bezahlt hast!
 
-## Johnny's und Baby's Zukunft
+## Johnnys und Babys Zukunft
 
 Diese kleine Pfeife! Da kommt man mit neuen Ideen und er blockt sie ab.
 
@@ -2180,7 +2180,7 @@ Allerdings weiß er das noch nicht.
 
 Lisa?
 
-## Lisa geht zu Robbie's Kabine
+## Lisa geht zu Robbies Kabine
 
 (Lied:) "Yes" von Merry Clayton:
 
@@ -2202,7 +2202,7 @@ Robbie, ich bin's.
 
 Ach du Schande!
 
-## Johnny's Traum
+## Johnnys Traum
 
 Soll ich dir mal
 was Verrücktes erzählen?
