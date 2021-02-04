@@ -167,7 +167,7 @@ Billy, hol das Gepäck!
 Sofort, Doc!
 
 	MAX KELLERMAN
-Ich habe für Sie und Ihre Kinder das beste Häuschen reserviert.
+Ich habe für Sie und Ihre Kinder das beste Häuschen reserviert
 
 	BILLY KOSTECKI
 Hallo! Vielen Dank.
@@ -258,7 +258,7 @@ wer die Finger nicht stillhält, fliegt im hohen Bogen.
 Hah! Es ist doch überall das Gleiche:
 Bring ihr den Mambo bei, aber rück ihr nicht auf die Pelle!
 
-* Alle kichern. *
+*Alle kichern.*
 
 	MAX KELLERMAN
 Riskier hier keine kesse Lippe!
