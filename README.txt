@@ -1,6 +1,5 @@
 # Dirty-Dancing-Mitschrift
-Kein Dirty Dancing Drehbuch, Script oder Untertitel.  
-Im [Raw Modus](https://raw.githubusercontent.com/KolyaKorruptis/Dirty-Dancing-Mitschrift/main/README.md) zu lesen. Oder in [Joplin](https://joplinapp.org/).    
+Kein Dirty Dancing Drehbuch, Script oder Untertitel.      
 Pull Requests willkommen.  
 
 
